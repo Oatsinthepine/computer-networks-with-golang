@@ -1,0 +1,34 @@
+.DS_Store
+.idea/
+*.iml
+out/
+bin/
+*.pcap
+*.pcapng
+*.key
+*.pem
+*.cer
+assignments/**/evidence/*.log
+assignments/**/evidence/*.txt
+assignments/**/uploads/*
+assignments/**/whatever*.txt
+assignments/**/server-test.html
+!assignments/**/evidence/README.md
+
+# Go binaries
+*.exe
+*.out
+
+# GoLand
+.run/
+
+# generated files
+*.log
+
+# TLS certificates
+*.pem
+*.key
+*.crt
+
+# temporary upload files
+uploads/*
