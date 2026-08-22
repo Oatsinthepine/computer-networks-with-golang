@@ -1,0 +1,4 @@
+This is the test file for PA2.go file.
+It contains the lines for testing.
+The PA2.go should be read through each line,
+And output another file which conatins each line in this file and with the line count and row length with each line.
