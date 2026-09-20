@@ -7,9 +7,9 @@
 | [x]  | W1 | Internet、protocol、分层、edge/core | 五层网络地图和 GoLand 检查 |
 | [x]  | W2 | Packet switching、delay、loss、throughput | PA1 waived（已有 Unix 基础） |
 | [x]  | W3 | Application principles、process、QoS | PA2 文件 I/O |
-| [ ]  | W4 | HTTP、DNS、request/response | curl/DNS micro-lab |
-| [ ]  | W5 | SMTP、P2P、Multimedia 基础 | PA3 TCP 上传客户端 |
-| [ ]  | W6 | Application Layer 复盘 | 重测 PA2–PA3 |
+| [x]  | W4 | HTTP、DNS、request/response | curl/DNS micro-lab |
+| [x]  | W5 | SMTP、P2P、Multimedia 基础 | PA3 TCP 上传客户端 |
+| [x]  | W6 | Application Layer 复盘 | 重测 PA2–PA3 |
 | [ ]  | W7 | Transport、UDP、stop-and-wait | PA4 单次上传服务器 |
 | [ ]  | W8 | Pipelining、GBN、SR | PA5 循环服务器 |
 | [ ]  | W9 | TCP 重传、流控、连接管理 | PA6 并发服务器 |
@@ -24,7 +24,8 @@
 ## PA 进度记录
 
 - PA1：waived。已有 Unix、终端和远程环境使用基础，未重复完成 PA1 指定练习。
-- PA2：2026-08-22 completed（learning-goal standard）。讲义示例与最终程序已完成并验证；当前字符数列属于个人扩展，输出格式不严格等同于官方参考。
+- PA2：2026-08-22 completed（learning-goal standard）。讲义示例与最终程序已完成并验证.
+- PA3: 2026-9-20 completed。
 
 ## 三个阶段检查点
 
