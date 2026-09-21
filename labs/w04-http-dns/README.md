@@ -13,3 +13,7 @@ curl -I https://example.com/
 ## Cloud 对照
 
 说明浏览器访问 Ingress 域名时，CoreDNS、外部 DNS、Load Balancer 和 HTTP router 分别位于哪一段。
+
+## 扩展实验
+
+- `gin-file-upload/`：将 PA4 的逐行编号业务改为 HTTP multipart API，并比较原生 TCP、HTTP 与 Gin。
