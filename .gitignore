@@ -32,3 +32,5 @@ assignments/**/server-test.html
 
 # temporary upload files
 uploads/*
+
+*.txt
