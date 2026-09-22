@@ -11,7 +11,7 @@
 | [x]  | W5 | SMTP、P2P、Multimedia 基础 | PA3 TCP 上传客户端 |
 | [x]  | W6 | Application Layer 复盘 | 重测 PA2–PA3 |
 | [x]  | W7 | Transport、UDP、stop-and-wait | PA4 单次上传服务器 |
-| [ ]  | W8 | Pipelining、GBN、SR | PA5 循环服务器 |
+| [x]  | W8 | Pipelining、GBN、SR | PA5 循环服务器 |
 | [ ]  | W9 | TCP 重传、流控、连接管理 | PA6 并发服务器 |
 | [ ]  | W10 | Congestion control | PA7 HTTP 请求解析 |
 | [ ]  | W11 | Transport 复盘 | 并发、断连和错误输入测试 |
@@ -26,7 +26,8 @@
 - PA1：waived。已有 Unix、终端和远程环境使用基础，未重复完成 PA1 指定练习。
 - PA2：2026-08-22 completed（learning-goal standard）。讲义示例与最终程序已完成并验证.
 - PA3: 2026-9-20 completed。
-- PA4: 2026-10-10 completed。
+- PA4: 2026-9-21 completed。
+- PA5: 2026-9-22 completed。
 
 ## 三个阶段检查点
 
