@@ -12,7 +12,7 @@
 | [x]  | W6 | Application Layer 复盘 | 重测 PA2–PA3 |
 | [x]  | W7 | Transport、UDP、stop-and-wait | PA4 单次上传服务器 |
 | [x]  | W8 | Pipelining、GBN、SR | PA5 循环服务器 |
-| [ ]  | W9 | TCP 重传、流控、连接管理 | PA6 并发服务器 |
+| [x]  | W9 | TCP 重传、流控、连接管理 | PA6 并发服务器 |
 | [ ]  | W10 | Congestion control | PA7 HTTP 请求解析 |
 | [ ]  | W11 | Transport 复盘 | 并发、断连和错误输入测试 |
 | [ ]  | W12 | Router、IPv4、DHCP、CIDR | 子网与路由 micro-lab |
